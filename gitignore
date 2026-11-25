@@ -1,0 +1,3 @@
+wsn_monitor
+*.o
+output.txt
